@@ -16,6 +16,6 @@ train CIFAR10 with PyTorch(0.4.0)
 
 ## Usage
 #### example
-```python
+```
 python main.py --net LeNet --lr 0.01 --epoch 100 --device gpu
 ```
